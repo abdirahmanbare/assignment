@@ -1,0 +1,57 @@
+img{
+    width: 500px;
+    
+}
+hr{
+    width: 600px;
+}
+div h3 a{
+    
+    color: white;
+    text-decoration: none;
+
+    
+}
+div h3{
+    background-color: green;
+    width: 200px;
+    padding: 12px;
+}
+h3 a{
+    text-decoration: none;
+}
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    
+}
+    
+
+.form {
+    margin-bottom: 20px;
+}
+
+.form h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+form p a{
+    text-decoration: none;
+}
+form div input{
+    width: 200px;
+    
+    
+}
+form input{
+    width: 92px;
+}
+
+
